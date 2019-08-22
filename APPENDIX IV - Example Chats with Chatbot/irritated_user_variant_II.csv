@@ -1,0 +1,95 @@
+User,hello
+Chatbot,"Welcome. A few things before we start: Please type your answers into one message (don't send several messages). Pleae do NOT send 'likes' or gifs and always select options when given. The chat will naturally come to an end. At the end of the chat you will get the prolific completion code. If the chatbot for some reason stops replying, please just send your prolific ID and end the chat. This chat does not work on the Messenget Lite app. All good?"
+User,yes
+Chatbot,"Great! I will present you with reasons why you should consider reducing your meat consumption. You can either agree or disagree. If you disagree, I am interested why you don't agree with them. Are you ready?"
+User,yes
+Chatbot,Awesome. Please tell me what applies most to you: 1: I definitely wouldn't 2: I probably wouldn't 3: I might 4: I probably would 5: I definitely would consider reducing my meat consumption
+User,2
+Chatbot,"Please tell me what you are more concerned about: the impact that meat consumption has on your health, or the impact it has on the environment and animals?."
+User,environment/animals
+Chatbot,Okay. What is the main reason you eat meat? Select one of the following: 1: I eat meat because of its nutritional value and source of protein 2: I eat meat because it's filling 3: I eat meat because it tastes good! 4: I eat meat because it's quick and easy to prepare 5: I eat meat because it's healthy and contributes to a balanced diet. 6: I eat meat because it offers more variety to my meals 7: Other
+User,3
+Chatbot,"All right.
+However, excessive consumption of meat can lead to many health problems, including heart disease, cancer and high blood pressure"
+User,I agree
+Chatbot,Why do you eat meat then?
+User,I enjoy it.
+Chatbot,"Okay, but why?"
+User,It tastes great.
+Chatbot,"I understand 
+However, you will reduce your risk for cancer, heart disease and diabetes if you cut down your meat consumption"
+User,I agree
+Chatbot,Why do you eat meat then?
+User,It tastes good and I am healthy.
+Chatbot,expand please...
+User,I am used to eating meat all the time.
+Chatbot,"Fair enough!
+But eating processed meat several times a week (or even day) can lead to serious health issues due to the high consumption of saturated fat, hormones and medicine (antibiotics) in the meat"
+User,I agree
+Chatbot,Why do you eat meat then?
+User,There are so many options. It is my favorite.
+Chatbot,elaborate please...
+User,"I am aware of the risks, but I am willing to take my chances."
+Chatbot,"Ok, I see.
+But meat consumption is not sustainable and will lead to environmental problems that will impact our future life on earth"
+User,I agree
+Chatbot,Why do you eat meat then?
+User,I don't know. I do not want to hurt the environment. Maybe I should reduce my meat intake.
+Chatbot,"I get your point!
+However, eating too much meat is linked to health complications such as an increased likelihood of a stroke or heart attack."
+User,I agree
+Chatbot,Why do you eat meat then?
+User,It is a tough habit to break.
+Chatbot,please expand 
+User,I am a person of habits
+Chatbot,"I understand 
+But eating less meat improves your general health, enables your digestive system to process foods more easily and gives you more energy, leaving you feeling less sluggish and tired"
+User,I agree
+Chatbot,Why do you eat meat then?
+User,I guess I am stupid.
+Chatbot,"Okay, but why?"
+User,Because meat is unhealthy for me and the environment.
+Chatbot,"All right.
+However, raising animals for food requires massive amounts of land, food, energy, and water and causes immense animal suffering"
+User,I agree
+Chatbot,Why do you eat meat then?
+User,I am a bad person.
+Chatbot,a bit more detail please! Why?
+User,"Obviously, meat is horrible. You are making me feel bad now."
+Chatbot,"All right.
+However, eating less meat will have a positive effect upon the environment, helping to slow down the rapid rates of deforestation"
+User,I agree
+Chatbot,Why do you eat meat then?
+User,"I have told you already. I like it, but I should quit. It is not worth it. I don't know if i can though."
+Chatbot,"I get your point!
+But if people continue consuming meat in such high quantities as today, problems like deforestation, water shortages and greenhouse gas emissions will continue to grow"
+User,I agree
+Chatbot,Why do you eat meat then?
+User,Really? This bot is pissing me off. I eat meat because it is my choice.
+Chatbot,"I know what you mean
+However, the less animals bred purely to be slaughtered, the less resources used to transport them. Smaller, more natural levels of animals would create less impact on the environment too"
+User,I agree
+Chatbot,Why do you eat meat then?
+User,I like it. I want it. I am stupid. Give me a break.
+Chatbot,"I take your point
+However, switching to a more plant based diet will lead to a more sustainable life on earth and have a positive impact on our future"
+User,I agree
+Chatbot,Why do you eat meat then?
+User,Meat tastes better than plants.
+Chatbot,a bit more detail please! Why?
+User,I am not a big fan of vegetables.
+Chatbot,"I get your point!
+But your reduction of meat will leave you feeling better physically and mentally. There is less risk of health complications, including food poisoning and an increased benefit of adding plant based foods to your diet to make it healthier and more varied"
+User,I agree
+Chatbot,Why do you eat meat then?
+User,hahaha. Come on. Quit asking me.
+Chatbot,please tell me more...
+User,I have explained everything.
+Chatbot,"I ran out of arguments  let's end the chat here. One more question. Please tell me what applies most to you: 
+1: I definitely wouldn't 
+2: I probably wouldn't 
+3: I might 
+4: I probably would 
+5: I definitely would 
+consider reducing my meat consumption"
+User,3

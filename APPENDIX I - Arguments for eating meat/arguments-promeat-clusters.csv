@@ -1,0 +1,112 @@
+its ,ParticipantID,argument,Cluster
+arg1,p1,Because I enjoy the taste ,Taste
+arg2,p2,Because it tastes good,Taste
+arg3,p3,It's what I've always done.,NAN
+arg4,p4,not many calories in it ,NAN
+arg5,p5,Because I love it ,Taste
+arg6,p6,Because I like the taste,Taste
+arg7,p7,Because it tastes good!,Taste
+arg8,p8,Because of nutrition,Nutrition
+arg9,p9,its enjoyable,Taste
+arg10,p10,It promotes growth of strength,NAN
+arg11,p11,I like it,Taste
+arg12,p12,I enjoy the taste,Taste
+arg13,p13,Because i enjoy dishes that contain it ,Taste
+arg14,p14,I enjoy the taste of most meats ,Taste
+arg15,p15,It contains nutrients ,Nutrition
+arg16,p16,Because it's normal,NAN
+arg17,p17,because i like it,Taste
+arg18,p18,I enjoy the taste.,Taste
+arg19,p19,"Mostly because it's easier than being veggie, in terms of in my home (my husband eats meat)",Easy
+arg20,p20,I really enjoy the taste of it,Taste
+arg21,p21,because it gives you protein,Nutrition
+arg22,p22,I eat meat simply because it's what I've always done.,NAN
+arg23,p23,I have eaten meat my entire life but I eat less now than ever before.,NAN
+arg24,p24,It is a good source of protein,Nutrition
+arg25,p25,Habit and i like the taste and texture,Taste
+arg26,p26,I eat meat mainly because I enjoy the taste of it.,Taste
+arg27,p27,I like to eat a good amount and source of protein for my general health and fitness,Health
+arg28,p28,"To be honest, probably just because we can. It is normal and we were not really raised to know how to not eat meat.",NAN
+arg29,p29,its is tasty,Taste
+arg30,p30,Because i have been brought up eating meat so its normal diet for me.,NAN
+arg31,p31,I eat meat because I like it,Taste
+arg32,p32,Because of the protein,Nutrition
+arg33,p33,My main reason is to taste different kinds of meat.,Taste
+arg34,p34,I think your body needs the proteins and vitamins in the meat.,Nutrition
+arg35,p35,I enjoy eating it as it tastes nice,Taste
+arg36,p36,In order to get the protein I need,Nutrition
+arg37,p37,I like the taste.,Taste
+arg38,p38,I enjoy it and have always eaten it when possible,Taste
+arg39,p39,I eat meat for a balanced diet. ,Health
+arg40,p40,for its nutritional value and source of protein ,Nutrition
+arg41,p1,Preferred over vegetarian options ,NAN
+arg42,p2,Because its healthy,Health
+arg43,p3,It's part of a balanced diet. It's high in protein and the right kinds of meat are good for my health.,Health
+arg44,p5,children love it ,Taste
+arg45,p6,It’s healthy,Health
+arg46,p7,Because there are various kinds.,Variety
+arg47,p8,Because of the taste,Taste
+arg48,p9,i think its healthy,Health
+arg49,p10,It is delicious,Taste
+arg50,p11,Out of habit,NAN
+arg51,p12,My body craves the protein,Nutrition
+arg52,p13,I enjoy certain meats,Taste
+arg53,p14,Offers a full balanced diet ,Health
+arg54,p15,I enjoy the taste ,Taste
+arg55,p16,Because we like the taste and alternatives aren't as easy to obtain,Taste
+arg56,p17,"To get a good iron, protein etc consumption",Nutrition
+arg57,p18,Its filling and easy to cook.,Filling
+arg58,p19,There are certain things I'd really miss (such as salmon),NAN
+arg59,p20,No specific reason it's just nice,Taste
+arg60,p21,because i like it,Taste
+arg61,p22,I eat meat because I'm conditioned to believe it's the main part of a meal.,NAN
+arg62,p23,I eat meat because it provides me with the protein I need and I enjoy the flavor.,Nutrition
+arg63,p24,It tastes good,Taste
+arg64,p25,I like the taste,Taste
+arg65,p26,I have been eating meat my entire life.,NAN
+arg66,p27,"I enjoy the taste of most meats, mainly chicken, lamb and beef",Taste
+arg67,p28,"Culture aside, it is usually nutritious and an important source of protein.",Nutrition
+arg68,p29,compliments a meal,NAN
+arg69,p30,For a healthy diet,Health
+arg70,p31,I find it filling and varied,Filling
+arg71,p32,I like it,Taste
+arg72,p33,Meat makes me full after eating and has protein that is good for my health.,Health
+arg73,p34,Some meat tastes good.,Taste
+arg74,p36,I like the taste of meat,Taste
+arg75,p37,Its good for you,NAN
+arg76,p38,It is filling and makes a meal complete,Filling
+arg77,p39,I eat meat for the texture. ,NAN
+arg78,p40,I like it.,Taste
+arg79,p1,Quick and easy to prepare ,Easy
+arg80,p3,I like to support local farmers. Farming is a difficult job and their incomes are constantly being squeezed. I live in a rural area and farming is a major industry.,NAN
+arg81,p4,easy to cook,Easy
+arg82,p6,protein,Nutrition
+arg83,p7,I grew up eating it.,NAN
+arg84,p10,It’s filling,Filling
+arg85,p13,Good for you,NAN
+arg86,p14,My parents akwats gave us meat ,NAN
+arg87,p15,I make many meals that i like with it,Taste
+arg88,p16,Because I don't like the taste of alternative protein sources,Nutrition
+arg89,p17,Meal variety,Variety
+arg90,p18,Its cheap to eat it.,NAN
+arg91,p19,I've had problems with energy when veggie in the past ,NAN
+arg92,p22,I eat meat because it's everywhere.,NAN
+arg93,p23,I eat meat because I was taught how to cook it.,Easy
+arg94,p25,Its not a meal without meat,NAN
+arg95,p26,its healthy and contributes to a balanced diet.,Health
+arg96,p27,I think it’s good to have a health balanced diet and not good to cut out meat from your diet,Health
+arg97,p28,It's pretty tasty.,Taste
+arg98,p29,fills you up,Filling
+arg99,p30,I like it.,Taste
+arg100,p31,It's a great source of protein,Nutrition
+arg101,p34,"My spouse eats a lot of meat. I do not eat that much meat, but I do eat 3 pieces of meat a week.",NAN
+arg102,p40,Important for the children’s development.,NAN
+arg103,p3,It's delicious and versatile.,Taste
+arg104,p14,Its how we were brought up ,NAN
+arg105,p16,Because I'm too lazy to make an effort to be vegetarian,NAN
+arg106,p27,People have been eating meat forever so there must be a good reason why we continue to consume it,NAN
+arg107,p31,Easily available,Easy
+arg108,p3,Meals which include meat make me feel full for longer than my non-meat meals.,Filling
+arg109,p7,it offers more variety to my meals,Variety
+arg110,p3,"Most people I know eat meat, so shared meals always include meat. It's just easier and quicker.",Easy
+arg111,p3,Most of the recipes I know include meat.,NAN
